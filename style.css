@@ -63,7 +63,7 @@ p {
 }
 
 .img-box {
-  background: center/cover url("./images/image-header-desktop.jpg") no-repeat;
+  background: center/cover url("image-header-desktop.jpg") no-repeat;
   height: 425px;
   width: 500px;
   position: relative;
